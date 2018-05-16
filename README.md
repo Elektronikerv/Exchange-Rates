@@ -1,4 +1,4 @@
 # Exchange-Rates
-Web application for exchange rates, that uses currencylayer api.
+Web application, that allows to check currency exchange rates.
 
-Technologies used: Spring MVC, Spring Security, Spring JDBC, MySQL, JSP, Bootstrap, JavaScript. 
+Technologies used: Spring MVC, Spring Security, Spring JDBC, MySQL, JSP, Bootstrap, JavaScript, Currencylayer API. 
